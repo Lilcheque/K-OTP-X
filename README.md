@@ -10,14 +10,14 @@
 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/predator0x300/K-OTP-X
+* git clone https://github.com/Lilcheque/K-OTP-X
 * cd K-OTP-X/
 * chmod 777 start.sh
 * ./start.sh
 * ./An-K-OTP-X.sh
 
 # INSTALLATION [ KALI ]
-* git clone https://github.com/predator0x300/K-OTP-X
+* git clone https://github.com/Lilcheque/K-OTP-X
 * cd K-OTP-X/
 * chmod 777 setup.sh
 * ./setup.sh
